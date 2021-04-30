@@ -8,4 +8,27 @@ White: #FFF
 */
 header{
     
+    background-image: url(../images/landing.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+nav{
+    background-color: white;
+    display: flex;
+    height: 60px;
+    padding-bottom: 15px;
+    justify-content: space-between;
+}
+nav>ul{
+    display: flex;
+    
+}
+nav>ul>li{
+    display: flex;
+    padding-right: 30px;
+}
+a{
+    text-decoration: none;
+    color: #1A1A1A;
 }
