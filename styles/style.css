@@ -6,13 +6,14 @@ Green: #00B172
 White: #FFF
 
 */  
+
 header{
-    
-    background-image: url(../images/landing.jpg);
+    width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
-    
+    background-image: url(../images/landing.jpg);
 }
+
 nav{
     background-color: white;
     display: flex;
